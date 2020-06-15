@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/04_webservice_network_client3/04_webservice_network_client3.iml" filepath="$PROJECT_DIR$/04_webservice_network_client3/04_webservice_network_client3.iml" />
       <module fileurl="file://$PROJECT_DIR$/05_webservice_network_client4/05_webservice_network_client4.iml" filepath="$PROJECT_DIR$/05_webservice_network_client4/05_webservice_network_client4.iml" />
       <module fileurl="file://$PROJECT_DIR$/06_webservice_network_client5/06_webservice_network_client5.iml" filepath="$PROJECT_DIR$/06_webservice_network_client5/06_webservice_network_client5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_webservice_axis2_axiom/07_webservice_axis2_axiom.iml" filepath="$PROJECT_DIR$/07_webservice_axis2_axiom/07_webservice_axis2_axiom.iml" />
     </modules>
   </component>
 </project>
