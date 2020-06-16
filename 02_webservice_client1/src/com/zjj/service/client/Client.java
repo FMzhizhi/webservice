@@ -11,8 +11,8 @@ public class Client {
         WeatherServiceImpl servicePort = service.getPort(WeatherServiceImpl.class);
         //调用方法 （porttype标签的operation获得）
         String result = servicePort.query("广州");
-        String orther = servicePort.orther("你好");
-        System.out.println(orther);
+        //String orther = servicePort.orther("你好");
+        //System.out.println(orther);
         System.out.println(result);
 
 

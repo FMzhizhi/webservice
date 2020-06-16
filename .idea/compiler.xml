@@ -6,12 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="07_webservice_axis2_axiom" />
+        <module name="untitled" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="07_webservice_aiom" target="1.5" />
-      <module name="07_webservice_axis2_axiom" target="1.8" />
+      <module name="untitled" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
